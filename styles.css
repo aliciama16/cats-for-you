@@ -1,0 +1,23 @@
+body {
+    background-color: #f5f5dc; /* Light beige neutral background color */
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    width: 80%;
+    margin: 0 auto; /* Center the container */
+    text-align: center; /* Center the content */
+    padding-top: 50px; /* Add space from the top */
+}
+
+h1 {
+    font-size: 36px;
+    margin-bottom: 20px;
+}
+
+#catImages img {
+    max-width: 600px; /* Set maximum width for the cat image */
+    width: 100%; /* Ensure image does not exceed container width */
+}
